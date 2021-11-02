@@ -119,3 +119,27 @@ The cloned Teros was made with incomplete goals - he has no memory of his family
 Teros questions his search for more knowledge- is he learning for learning’s sake? Are there topics he could learn more about but he’s dismissed them out of hand?
 
 Teros fights a mission between being efficient and wasting his free time.
+
+# Writing
+## 2021-11-01
+- Teros wanders on a walk
+- Puts feelings together "Who am I?"
+- Maybe he should suppress?
+- But he thirsts for more knowledge
+- Too scared to revel but driven to help
+
+Silence comforts him, while footsteps irritate him. Teros stops long enough to reinvite silence. The sun is always welcome, even as it retreats below the horizon. Maybe celestial bodies are afraid.
+
+Godsfont thanked him for service yesterday. The earth djinn was unstable, angry. Claimed he was underpaid. He probably was; the merchant was quite rude. But violence begets violence. Hopefully his time in jail will calm him down.
+
+"Is this who I am?" Teros looks at his hands. Are these even his hands? He takes off his gloves and observes the grooves in his palms. No scars. He remembers the failed days trying to form Quill. It backfired so many times. Now his hands are too clean- when did he heal?
+
+After breaking up a gang of Ardons, Vale came to congratulate him. "Hey Teros, good job. Took you a little longer than I thought." She paused for a moment. Long enough to begin analyzing him. It was her habit of scanning too much. But she never made a move.
+
+Teros was too perfect for his own good. Small scars, alchemical burns, injuries from cutting himself off in incomplete portals- all gone. Vale was suspicious. She must have figured it out. Why didn't she say anything? He recalled his response: "Just trying to keep the peace."
+
+Teros sat down and let the cool air blow over him. It would be so easy to stay. It wraps over him like a blanket. Covers his legs, tucks in his arms. The sun is gone. Bedtime.
+
+A firefly bothers him. A bright red firefly buzzes near his ear. It's Quill. He snaps his eyes open. It tells him Vale's words: "Well, you could do better."
+
+He stands up. "I have to do better. I have to know." The gloves hide his shame. He looks up to Quill. "I have to know more." The wind pushes him back to Godsfont. Away from rest.
