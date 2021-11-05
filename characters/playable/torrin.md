@@ -45,3 +45,7 @@ Torrin has to admit this is a new lease on life. She has another chance to corre
 ## Seven deadly sins flaw
 ### 2. Gluttony vs Temperance
 Torrin sees the opportunity to indulge in her desires, but rejects it. As the famed hero she quietly calls upon favors when needed. She knows it is all too easy to use her glory as a crutch.
+
+# What does she look like?
+## Ancient Greece priestess?
+Wrap & Drape Fashion p16-17 20

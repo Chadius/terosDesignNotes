@@ -94,6 +94,27 @@ but ALSO because he wanted to earn their approval. Getting ousted for identity f
 Main color is Green. Add Black and Red accents.
 ![Teros outfit](terosOutfit1.png)
 
+## Historical Costumes
+### Sonnike
+https://upload.wikimedia.org/wikipedia/commons/f/f3/GuerriersSarrakholais.jpg
+### Sahelian kingdoms
+Grasslands south of the Sahara. Check out the green man in the lower left corner.
+
+https://en.wikipedia.org/wiki/Sahelian_kingdoms#/media/File:Geschichte_des_Kost%C3%BCms_(1905)_(14580574910).jpg
+### Mali
+Western Africa, mid 13th to 15th century
+
+https://pin.it/4kVExNK
+
+### Tuareg
+Sahara African ethnic group. Renowned for warrior strength until the invention of the firearms.
+
+https://pin.it/2MG0t1S
+https://pin.it/yLknCu6
+
+### Somali
+https://pin.it/4LKWhrA
+
 # Tarot card challenge
 Teros and Corrupted Teros have the same tarot cards, in the same direction.
 

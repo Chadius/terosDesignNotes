@@ -42,3 +42,7 @@ Surge’s trust has always been at risk. He was never trusted fully in Godsfont,
 Another impostor trying to trick me. But it’s the best bet for my survival so far. But his betrayal is incoming.
 ## Torrin
 Feared. Powerful. She sees them both as cursed by their own gifts of destructive power.
+
+# What is his outfit?
+## Ancient Greece
+Wrap & Drape Fashion p19+
