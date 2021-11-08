@@ -49,3 +49,9 @@ Torrin sees the opportunity to indulge in her desires, but rejects it. As the fa
 # What does she look like?
 ## Ancient Greece priestess?
 Wrap & Drape Fashion p16-17 20
+## Versus the Water Tyrant
+Torrin and the Water Tyrant have the same body build.
+
+The Tyrant is a bit more muscular and idealized, While Torrin is a bit more withered.
+
+Torrin's costume should reflect her religious devotion to Virton while the Water Tyrant wears a mask to express the lore and the mystery of her face.
