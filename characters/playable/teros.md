@@ -87,6 +87,14 @@ The new Teros was directed to simply help his allies and follow his master’s o
 As Teros wore the mask and began to realize he was the mask, the Impostor Syndrome sank in.
 
 #### Internal
+Teros fears rejection for being an impostor. He will do all he can to hide his identity as a clone.
+
+- Skips parties and social events so he can spend time in solitude rather than risk exposing himself
+- Hide his low power level and claim he was caught off guard/spells weren't ready/he's still recovering from the year-long sojourn
+- When speaking to someone close to the original Teros, he withdraws in shame, knowing his presence must be insulting to them.
+- Often wonders "What would Teros do?" so he doesn't arouse suspicion. Since he doesn't fully know what
+
+
 He does things because his original personality did what was right,
 but ALSO because he wanted to earn their approval. Getting ousted for identity frightened him.
 
@@ -142,6 +150,99 @@ Teros questions his search for more knowledge- is he learning for learning’s s
 Teros fights a mission between being efficient and wasting his free time.
 
 # Writing
+## 2021-12-01
+- Teros confronts Bleud on their nature, hoping for another way out.
+- Bleud reminds Teros of her duty and devotion to him, and how specific it is.
+
+Teros waits for Bleud's attendants to leave the room. Does she need so many? All of them smiling as they leave - no argument, no fuss. Bleud got off the table and got dressed. "Thank you for your patience, Teros." She turns to him, unblinking so he may consume her truth.
+
+Teros notices Quill float outside the room, to grant the illusion of privacy. Or maybe Quill doesn't want the truth. "Bleud, what am I? Are we the same?"
+
+Bleud takes a step closer. "No, Teros. I am a prototype. An early attempt that failed. You are much more advanced, much more experiened... I see my half-truth has failed." Teros looks to her feathered bed. How much did that cost?
+
+"I will attempt again. Teros. You and I are both artificial. Smooth sand given live by our Master. Each given agendas. I know yours, but you do not know your own." She finally took a breath and pushed the pain away.
+
+Teros looked at her. "Wait, who is the master?" Bleud stumbles as Teros scoops down to catch her. "Are you under some kind of compulsion?" Teros kicks himself for asking that question. Bleud takes another breath and this time he has to help her onto the bed. "I'm sorry Bleud. I just... I just need to know. What am I doing here? I feel like I'm not even real, I'm just... observing this body as it moves. Like watching an illusion."
+
+Bleud gathers the strength to drink from her pitcher of water. The pitcher costs about two months of salary. "Teros, I cannot answer these questions. I am forbidden. But know this: I will always follow Teros. That is my agenda."
+
+She stands up so she may get close again and match his stare. He twists away again. She sweeps across the floor and kneels until she locks his gaze, like a spider crawling across the walls to reach the ceiling. "There is less than a month of peacetime. You must be ready. You will fulfill your agenda, but not your desires." She looks to the open vista. "That is our struggle."
+
+Teros ponders what she meant, but it's too much. His mind wants to burst free, ignore her words and wander about the cosmos. But it can't. Godsfont needs him. What is his agenda? He tries to speak, but the words do not come. He needs fresh air.
+
+Quill catches him outside Bleud's villa, catching his breath. He buries her words underneath his duty. He must protect Godsfont. Nothing else matters. "Quill. Let's begin a patrol."
+## 2021-11-27
+- Teros feels embarrassed a lowly bandit could stop him, so he puts up a brave face
+- Vale plays with the bandits, treating them as lessers.
+- Fracta is desperate, blindly hopeful this will turn out well
+
+"Give me the herbs already!" Fracta raised a stone wall behind her.
+
+This mage Teros evaded her for two days, but no more. Walls on all sides. No roof so nowhere to hide. The sun shines on everyone, and Fracta feels her luck. Good luck.
+
+Teros catches his breath and holds his spear. Fatigue seeps through his posture, weighing his arms, knees and back. Quill pulses on the spearpoint, and he nods. *Right. Can't show weakness.* "Come and get it, then!" Teros beckons with his free hand. The two archers take aim. Fracta points and gives the order.
+
+Lightning fells the archer on Teros's right. Fracta watches her luck fizzle as another human floats in. Skin is pale, skin withered. Wooden staff. Cloaked in wind and lightning. Fracta recognizes Vale, and Vale recognizes Teros. Why didn't intel warn me?
+
+"Teros! Stop playing with 'em. Barely worth the magic." She swoops in and points her staff at the other bandit. A gout of flame reaches out, but the bandit quickly climbs over the wall. "I love when they run- makes it more exciting. I'll catch 'em. Take care of this idiot."
+
+"Right. Good to see you again-" Teros watches Vale fly after the other bandit. She didn't even notice the arrow in his side. He made a note to tell her later.
+
+## 2021-11-25
+- Teros chooses to hide his shame and suffer suspicion.
+- Vale holds onto a false hope, defying logic.
+- Surge loses faith in Vale and distrusts Teros more.
+
+"Vale, there you are." Surge approaches like a dog glad to see his master. As he turns the corner, he barely conceals his fangs. "Teros." Strategy had given way to an awkward pause.
+
+"Surge, Teros and I were discussing tomorrow's raid. Come on." She waves the Undine over to the map. "Most of our troop will serve as a distraction. Draw the weaklings out. Our target is the leader, Korsin and his benefactor. Fracta said we take them out, she can retake control of the bandits and order them to surrender." She looks to Teros, he nods. She looks to Surge and his distaste is obvious to them both.
+
+"R-right. How do we know they won't have a reserve troop?" Surge looks Teros right in the eye. "How do we know you haven't given us away? Maybe they're lying in ambush, right outside the camp." Quill forms into a shocked expression before hovering between the two.
+
+Teros gently moves Quill aside. "Surge, my goal is to rescue the people they kidnapped. You know this. The easiest way is to disrupt their chain of command so we can secure the hostages in the ensuing chaos." His words slow, calculated for logic, ignorant of Surge's true questions. "And I am the Captain. Why would I jeopardize the mission?"
+
+Surge's eyes scan over to Vale's. Her eyes are on the floor. "Vale, did you ever finish the analysis?" She looks up at him *not now*. He looks to Teros. "When you... rescued me from Barubary, you bled. I asked Vale to analyze your blood. I don't know who you are, exactly, but-"
+
+Vale taps the ground with her wooden cane. "Okay Surge. The results were... inconclusive." Both look at her, she isn't looking back. "That's not true. The blood was a perfect match. Like he hadn't aged a day since we drew it last time." She keeps her gaze on the walls. Surge knew his Guardian all his life; she was hiding her suspicions with her trademark pacing routine. "So... it's him. It's Teros."
+
+Surge sighed. "The last 2 people I met who claimed to be Teros were very manipulative. They relied on magic to twist my mind into compliance. They failed because they looked like him, but they couldn't act like him." He looks through Teros.
+
+Teros cleared his throat. "Once again, I am sorry they targeted you like that. But I am him." *I must be him.* "I am Teros. Vale never told me about the blood test, how could I fake that?" Teros lifts the weight of his lies. Too many lives will be crushed underneath its weight.
+
+"...Very well. I will travel with you if you want to the bandit camp." Surge turns away from the lies. "Good night, Vale." Surge moves away from his trust. This thing got to Vale, his Guardian. Maybe she was tired of searching. Maybe she was tired of failure. Maybe she didn't take his stories for granted. But Surge would not let anyone get to him again.
+## 2021-11-12
+- The bandits surrender
+- Godsfont Guard give him the rest of the after action report
+- Alone, he looks at himself in a mirror
+- Checks his smooth hand, "Who am I?"
+
+Teros kept his spear drawn and ready. The blade's energy hissed through the silence as the bandit leader fell to his knees. "I surrender! We all- we all surrender!" The surviving bandits dropped their weapons and the Godsfont Guard moved in to disarm and arrest them.
+
+"You made a wise decision." Teros bound the leader's arms and helped him stand up. "Further cooperation will help reduce your punishment."
+
+Then came the hard part: the after action report. Against the sunset, lower ranking guards would walk in, thank him for his leadership, and give their report. Only Teros sat down. The guards weren't chained to their duty. They left for the day or began their night shift - no need to stick around.
+
+Once they left, Teros digs through the mountain of notes. He filters out wild guesses, misinterpretations, and prejudice to write just the facts. The bandits thought the merchant was an easy target. A scouting bandit set off a silent alarm. Teros was inspecting a nearby smithery when he caught the alarm and mobilized the troops.
+
+Teros continues compiling until hissing breaks his concentration. Quill is almost inside his right ear when his mind catches up to his senses. "I'm so tired... I've been up for too long, eh?" Quill responds to his query with a quick shake up and down. "Bedtime, yes."
+
+He enters the bedroom and looks at the mirror. Who is that man staring back at him? Someone bought it for him, someone important. Quill points to the empty ceramic basin next to his bed. It is not his bathing basin. Neither is the smaller one outside the main bedroom.
+
+The headache gets worse. Teros blocks out the basins and looks back at the reflection. Who is that? Teros holds up his right hand. Unmarred, no scars. But it was scarred in a magical fire long ago. Before he mastered the art. When did he have time to heal it this well? It didn't make sense, the reflection mumbled. Teros nodded.
+
+"Who... who am I?"
+
+## 2021-11-10
+Dame Gloria is always early for these update meetings. One of the few times her helmet is off. She stands to attention and heaps respect upon me. "Captain, good to see you."
+
+An awkward pause before I can point back to the table. "You can be seated." Quill buzzes about my head as I move to the head of the table. Gloria returns to her seat, checks the alignment against the table, then grasps her precious helmet.
+
+The sunset streaks red and golden rays through the open windows. It's beautiful, except for the shine off of Gloria's armor. Quill hovers overhead and soaks the sunlight instead. Thanks, Quill.
+
+Torrin and Serge slither in next. Torrin is exhausted, she's dragging her leg stumps across the sand. Serge is lending his shoulder to help his mother. He's a good boy. I can't help but smile. "Lady Torrin. Sir Serge." Dame Gloria greets them first.
+
+Serge bows to her. "Good to see you, Dame Gloria. I trust you had a good patrol? My mother and I-" Gloria raises a hand to cut him off. "You can tell the captain once we begin."
+
 ## 2021-11-01
 - Teros wanders on a walk
 - Puts feelings together "Who am I?"

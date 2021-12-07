@@ -46,3 +46,29 @@ Feared. Powerful. She sees them both as cursed by their own gifts of destructive
 # What is his outfit?
 ## Ancient Greece
 Wrap & Drape Fashion p19+
+
+# Emotional story
+Surge loses his faith in Vale as she refuses to expose Teros
+# Writing
+## 2021-11-25
+- Teros chooses to hide his shame and suffer suspicion.
+- Vale holds onto a false hope, defying logic.
+- Surge loses faith in Vale and distrusts Teros more.
+
+"Vale, there you are." Surge approaches like a dog glad to see his master. As he turns the corner, he barely conceals his fangs. "Teros." Strategy had given way to an awkward pause.
+
+"Surge, Teros and I were discussing tomorrow's raid. Come on." She waves the Undine over to the map. "Most of our troop will serve as a distraction. Draw the weaklings out. Our target is the leader, Korsin and his benefactor. Fracta said we take them out, she can retake control of the bandits and order them to surrender." She looks to Teros, he nods. She looks to Surge and his distaste is obvious to them both.
+
+"R-right. How do we know they won't have a reserve troop?" Surge looks Teros right in the eye. "How do we know you haven't given us away? Maybe they're lying in ambush, right outside the camp." Quill forms into a shocked expression before hovering between the two.
+
+Teros gently moves Quill aside. "Surge, my goal is to rescue the people they kidnapped. You know this. The easiest way is to disrupt their chain of command so we can secure the hostages in the ensuing chaos." His words slow, calculated for logic, ignorant of Surge's true questions. "And I am the Captain. Why would I jeopardize the mission?"
+
+Surge's eyes scan over to Vale's. Her eyes are on the floor. "Vale, did you ever finish the analysis?" She looks up at him *not now*. He looks to Teros. "When you... rescued me from Barubary, you bled. I asked Vale to analyze your blood. I don't know who you are, exactly, but-"
+
+Vale taps the ground with her wooden cane. "Okay Surge. The results were... inconclusive." Both look at her, she isn't looking back. "That's not true. The blood was a perfect match. Like he hadn't aged a day since we drew it last time." She keeps her gaze on the walls. Surge knew his Guardian all his life; she was hiding her suspicions with her trademark pacing routine. "So... it's him. It's Teros."
+
+Surge sighed. "The last 2 people I met who claimed to be Teros were very manipulative. They relied on magic to twist my mind into compliance. They failed because they looked like him, but they couldn't act like him." He looks through Teros.
+
+Teros cleared his throat. "Once again, I am sorry they targeted you like that. But I am him." *I must be him.* "I am Teros. Vale never told me about the blood test, how could I fake that?" Teros lifts the weight of his lies. Too many lives will be crushed underneath its weight.
+
+"...Very well. I will travel with you if you want to the bandit camp." Surge turns away from the lies. "Good night, Vale." Surge moves away from his trust. This thing got to Vale, his Guardian. Maybe she was tired of searching. Maybe she was tired of failure. Maybe she didn't take his stories for granted. But Surge would not let anyone get to him again.

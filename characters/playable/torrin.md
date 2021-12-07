@@ -17,8 +17,15 @@ As a water djinn, Torrin doesn’t have feet, just thick watery stumps used to k
 What little decorations she can afford holds many motifs to the various cultures she’s seen rise and fall, as well as the symbol of Virton prominently on the back.
 
 Water Djinn are almost monstrous in appearance, as they lack many features and move in inhuman manners. The split left her lanky and bulbous.
+
+- The reputation of water tyrants follows her every step. She tries to be withdrawn and invisible when she isn't needed.
+
 #### Internal
 Torrin finds her body, her identity stolen, and it upsets her deeply. She worked hard to cultivate it, and now people look down at her like a monster.
+
+- Torrin experiences self-esteem and body shame issues.
+- Most of her body was stolen, so it's difficult to maintain a non-threatening shape. She feels ashamed when around others.
+
 ### Mental
 #### External
 Torrin was gifted knowledge of the lands, and was able to trade education in exchange for protection. Eventually the Crusaders of Virton taught her the word of Virton and she quickly learned more.
@@ -30,7 +37,17 @@ When she felt lost during the War of Man, she turned to the gods for help, and V
 #### Internal
 Torrin decided that she must serve as an example for everyone to follow. She would recite the good word and follow it to the best of her ability. She invested herself spiritually, trying to remain emotionless and unattached.
 
+- Torrin feels torn between her divine duty and personal desires. 
+- Gifted with the unique power of water and the power of the gods, Torrin feels responsible to help the land in any way she can.
+- Alone and singled out, Torrin feels she can never make a personal connection to anyone besides Teros, Surge, and Vale to some degree.
+- Torrin uses her faith and duty as escapes when she feels lonely.
+
 # Opinions vs Player Characters
+## Teros
+Like her son, Torrin knows Teros is not the original. Unlike her son, Torrin treats him as a lost soul she can guide to do some good. She is friendly towards him, inspiring him to do good because he wants to. It doesn't matter what the original would do. It doesn't matter what his past self would do. Just like it doesn't matter what previous water djinn would do.
+
+He does remind her of her lost love. It's painful to look at him and it challenges her  humanity. She has to separate her duty from her feelings.
+
 ## Vale
 Vale doesn’t recognize her powers as gifts, even when they can be used to clear obstructions. She forgets when she cleared rubble to quickly rescue children buried in rubble, or her early irrigation efforts to clear the earth and laid foundations for buildings.
 

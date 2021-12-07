@@ -41,3 +41,5 @@ The only thing she can rely on is gold and material wealth. It can’t betray he
 ### 6. Lovers
 ## Seven Sins Challenge
 ### 1. Lust vs Chastity
+# Emotional notes
+- Fracta is desperate, blindly hopeful she can rob Teros and it will all be better
