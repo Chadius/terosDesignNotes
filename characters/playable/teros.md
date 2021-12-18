@@ -94,13 +94,26 @@ Teros fears rejection for being an impostor. He will do all he can to hide his i
 - When speaking to someone close to the original Teros, he withdraws in shame, knowing his presence must be insulting to them.
 - Often wonders "What would Teros do?" so he doesn't arouse suspicion. Since he doesn't fully know what
 
+##### Who am I?
+One one aspect of Water Tyrant has over Teros, is that she can always relate to him as they are both dealing with cloning blues. No matter what they do, they will always be compared to the original.
 
-He does things because his original personality did what was right,
-but ALSO because he wanted to earn their approval. Getting ousted for identity frightened him.
+Teros always thinks about what the original would do. "This is something he would like? Is this something he would hate?" And the Original's role as the captain of the GodsFont Guard means that Teros will continue leading to maintain appearances.
+
+It takes him a while. But he eventually, he wears the mask. He protects for the sake of protecting and not because he needs to keep up appearances. He doesn't need to hide himself as the "real" thing.
+
+That's a big difference between the two: In the end. Teros is willing to die for his cause. He knows that the story is much bigger than him. He also knows that this will honor the original's name if he protects the land.
+
+Friendships also define their behavior. For Teros, many of his allies, never knew the original. Many of them speak about their purposes and their humanity. They ask if they are doing the right thing.
+
+With these converstaions, Teros realizes that the world is much bigger than himself. When people do discover that he's not the original, it's less of about who he "should" be. This liberates his actions and he can figure out what he wants to do in the world. He's willing to ask the question. "Who am I? And what do I want out of this" rather than slavishly following the original's actions?
 
 # Visual Look
 Main color is Green. Add Black and Red accents.
 ![Teros outfit](terosOutfit1.png)
+
+## Highlights
+Needs a pointy high collar that folds into his neck.
+Needs to simplify his costume.
 
 ## Historical Costumes
 ### Sonnike
@@ -150,6 +163,28 @@ Teros questions his search for more knowledge- is he learning for learning’s s
 Teros fights a mission between being efficient and wasting his free time.
 
 # Writing
+## 2021-12-09
+One one aspect of Water Tyrant has over Teros, is that she can always relate to him as they are both dealing with cloning blues. No matter what they do, they will always be compared to the original.
+
+Teros always thinks about what the original would do. "This is something he would like? Is this something he would hate?" And the Original's role as the captain of the GodsFont Guard means that Teros will continue leading to maintain appearances.
+
+It takes him a while. But he eventually, he wears the mask. He protects for the sake of protecting and not because he needs to keep up appearances. He doesn't need to hide himself as the "real" thing.
+
+As for the water tyrant, she just hates being compared to Torrin. She may have at one point thought, "what would Torrin do?" But she's tired of restricting herself. She's tired of Torrin's neutral responses of measured, calm self-restraint. She has the power, she has the abilities, she has control. And why not flaunt it? Especially against those who would look down on her for being a duplicate.
+
+It helps her push away the thought that one day, Torrin will conquer her and take her back.
+
+That's a big difference between the two: In the end. Teros is willing to die for his cause. He knows that the story is much bigger than him. He also knows that this will honor the original's name if he protects the land.
+
+Compare and contrast with the Water Tyrant. She's going to die, miserably, as a duplicate. Claiming that she never got to exist as a separate feature that even with her power, even with or wealth, even with her army, even with a drastically different alignment from Torrin. She is always bound to Torrin. She never found her escape.
+
+Friendships also define their behavior. For Teros, many of his allies, never knew the original. Many of them speak about their purposes and their humanity. They ask if they are doing the right thing.
+
+With these converstaions, Teros realizes that the world is much bigger than himself. When people do discover that he's not the original, it's less of about who he "should" be. This liberates his actions and he can figure out what he wants to do in the world. He's willing to ask the question. "Who am I? And what do I want out of this" rather than slavishly following the original's actions?
+
+The Water Tyrant, conversely has no allies. Just the Corrupted Teros who uses her as a vessel. He doesn't care about her personality. He doesn't care that she seeks purpose. He just says, "this is who you are" and he has not allowed her to ask the question.
+
+This causes her to lash out at others. She represses the rage that she feels over this because she cannot strike her from Master. She becomes the tyrant and she soon begins conquering all in her attempts to fix to well the rage inside of her without actually confronting it.
 ## 2021-12-01
 - Teros confronts Bleud on their nature, hoping for another way out.
 - Bleud reminds Teros of her duty and devotion to him, and how specific it is.

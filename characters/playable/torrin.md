@@ -20,6 +20,10 @@ Water Djinn are almost monstrous in appearance, as they lack many features and m
 
 - The reputation of water tyrants follows her every step. She tries to be withdrawn and invisible when she isn't needed.
 
+# Visual look
+## Little "hair"
+Torrin maintains a human shape as much as she can, and that includes keeping mist and steam in check. She's more of a solid blob of water.
+
 #### Internal
 Torrin finds her body, her identity stolen, and it upsets her deeply. She worked hard to cultivate it, and now people look down at her like a monster.
 

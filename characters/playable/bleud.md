@@ -12,6 +12,21 @@ Sealed within a chamber, Bleud was unable to move but she could think. And she f
 Torrin finds Teros and Surge and asks them to help her save Bleud. Her knowledge of the Water Tyrant’s Palace is invaluable.
 
 # Personality
+## Trauma
+### Abandomnent
+Bleud was left as a flawed prototype, kept alive only to be studied. She was abandoned and had to learn how to get by on her own.
+
+She has trouble expressing herself to other people, rather she adjusts to what she thinks they would like her to be. She never really learned how to tell people what she really felt.
+
+### Lingering pain
+The demon magic keeps her alive, but it also causes lingering pain. She gets by using constant massage therapy, but she doesn't speak of it. Most people would not understand what she's enduring, and they would find it uncomfortable. They don't want to hear it. So she keeps it to herself.
+
+She also struggles with her incorrect interpretation of commands
+
+### Unhealthy attachment to Teros
+Teros, is also an Aberrant, fueled by demon magic. He technically follows his orders and he is an advanced model compared to her, so he does not feel pain. He's the closest person to understanding her issues, and finds him as kindred. He's the closest person she has to a friend.
+
+He's the only friend she has, though. Everyone else is there to massage her pain or just "wouldn't understand" her issues. He doesn't mind counseling her, but he does want her to branch out.
 ## Traits
 ### Quiet Hedon
 In Human or Djinn societies, Bleud can amass a following rather quickly, and have them attend to her every need. She loves massages and getting fed water.
@@ -39,6 +54,30 @@ Especially Teros, who she knows is also Incomplete, yet he has greater autonomy 
 ![Outline of Breath of Fire 4's version of Death](bof4DeathOutline.png)
 ![Drawing of Breath of Fire 4's version of Death](bof4DeathDrawing.png)
 ![Sketch of Bleud](BleudSketch0.png)
+
+# Masks
+## Physical
+### External
+Bleud's body is unnatural: a deep shade of blue, odd eye colors, and very spindly. Bleud tolerates a light amount of pain as she walks and talks, requiring constant maintenance by her attendants.
+
+Fueled by demonic energy, Bleud struggles against her own body.
+- Healing magic repairs the body from injury, but it doesn't help her pervasive, persistent issues like Bleud's chronic pain.
+- Torrin's holy magic could purge her of the demonic magic that causes pain, but the same magic sustains her life. It would kill her.
+### Internal
+Bleud doesn't like talking about her physical pain. It ruins the mood when talking to others, but it also prevents her from being genuine.
+## Mental
+### External
+Bleud's can act and emote, but she adjusts to match the requester's desires.
+Against the weak-willed she has a natural charisma and draws a crowd of onlookers.
+### Internal
+Bleud wields a web of intrigue as her weapon. Relationships, betrayals, secrets and bargains are under her purview. She remembers secrets from everyone she encounters.
+## Spiritual
+### External
+Helping Teros is her primary mission. By helping him, she can find a sense of purpose.
+### Internal
+- Bleud's emotions are blunted, and it's difficult for her to express her true feelings.
+- She was created to please others, and she struggles to find a reason to care about herself.
+- She finds that Teros cares about her, and so she aligns herself to his wishes.
 
 # Writing
 ## 2021-12-01

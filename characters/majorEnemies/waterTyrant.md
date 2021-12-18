@@ -75,6 +75,22 @@ Torrin prefers brute force, her charm and overwhelming force, in that order. She
 The original Torrin is a devout follower of good religions like Virton and Nirsi. But Torrin doesn’t care about that. She’s here to take: she wants a mate, she wants to rule, she wants to own her identity.
 ###​ Internal
 Torrin knows she is an incomplete vessel. The body must be fed first before the mind or soul. Everyone should help her first.
+
+##### Who am I?
+One one aspect of Water Tyrant has over Teros, is that she can always relate to him as they are both dealing with cloning blues. No matter what they do, they will always be compared to the original.
+
+As for the water tyrant, she just hates being compared to Torrin. She may have at one point thought, "what would Torrin do?" But she's tired of restricting herself. She's tired of Torrin's neutral responses of measured, calm self-restraint. She has the power, she has the abilities, she has control. And why not flaunt it? Especially against those who would look down on her for being a duplicate.
+
+It helps her push away the thought that one day, Torrin will conquer her and take her back.
+
+Compare and contrast with the Water Tyrant. She's going to die, miserably, as a duplicate. Claiming that she never got to exist as a separate feature that even with her power, even with or wealth, even with her army, even with a drastically different alignment from Torrin. She is always bound to Torrin. She never found her escape.
+
+Friendships also define their behavior. For Teros, many of his allies, never knew the original. Many of them speak about their purposes and their humanity. They ask if they are doing the right thing.
+
+The Water Tyrant, conversely has no allies. Just the Corrupted Teros who uses her as a vessel. He doesn't care about her personality. He doesn't care that she seeks purpose. He just says, "this is who you are" and he has not allowed her to ask the question.
+
+This causes her to lash out at others. She represses the rage that she feels over this because she cannot strike her from Master. She becomes the tyrant and she soon begins conquering all in her attempts to fix to well the rage inside of her without actually confronting it.
+
 ###​ Core
 
 #​ Relation to Player Characters
@@ -82,5 +98,10 @@ Torrin knows she is an incomplete vessel. The body must be fed first before the 
 He used to pay attention to her, asking for her status and capacity. She eventually realized he was measuring her utility to create, and nothing more. Once the Bleud experiment failed and Barubary was on the case, the man no longer paid attention to her. Her slaves fulfilled her every need, all but one: Teros.
 ##​ Teros
 Simulacrum or not, this man was everything she remembered: caring, charming, accepting. And lonely, like her. He is perfect. Even better, the Original Teros has nothing to gain from keeping him. Like Bleud she will accept his refuse. Unlike Bleud, she will be quite glad to keep this one.
+
 ##​ Bleud
 She never liked the plan. At best, Bleud stole Original Teros’s attention. At worst she’s a drain on resources. He should rely more on the Tyrant’s abilities, anyway. 
+
+# Visual look
+## Lots of "hair"
+The Water Tyrant keeps enough of a humanoid shape, but lets wisps and tendrils of mist stream from her body.

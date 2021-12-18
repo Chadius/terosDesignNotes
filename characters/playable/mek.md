@@ -18,21 +18,32 @@ Mek meets the Fractal Bandits as they begin hauling kidnapped Godsfont citizens 
 ### External
 He works on his goatee and mustache and exercises to stay in shape and keep his bodyfat low.
 He also works on his armor, making sure it shines against the sunlight (although that makes him a target.)
+
+- Mek works out to improve his physique, but also to project strength.
 ### Internal
 Mek takes a lot of pride in looking good. When you look good, you feel good.
 He is always thinking about maintaining his armor, akin to cleaning a fancy luxury item. He wants to show off his wealth and power.
+
+- Mek wants innocents to thank him and enemies to fear him.
 ## Mental
 ### External
 He learned a lot from the highest-paid scholars and teachers his parents could afford, and was taught to think outside the box. From maintaining fuel levels in his armor, to balancing the magical reservoirs for his fire attacks, he knows how to tweak his equipment.
 He also knows who to hire to get the job done. Everyone has a price.
+
+- Morals can be bought. He learned that from his captors and the guards who fled rather than protect him.
 ### Internal
 Mek thinks money can solve every problem. With enough money, he can buy the tools, ingredients and instruction to break his limits.
+
+- Mek never wants to feel helpless again, and overcompensates with wealth. He would rather purchase wantonly than confront his fear.
 ## Spiritual
 ### External
 Mek was taught to take advantage of situations. Even if it seemed immoral, someone else would take advantage anyway, it may as well be him.
+
+- Mek has to deal with the pain of being a prisoner. He doesn't want anyone to experience it and focuses on saving them, even at extreme risk to himself.
 ### Internal
 Mek considers laws to be a suggestion. Physical laws can be broken with enough mechanical force. Magical limits are just ideas, bound by inadequate understanding. And in either case, money makes morals very flexible, to the point where people will help him break these rules.
 
+- He focuses on rescue because its his way of fighting back against the pain of being a prisoner.
 # Looks
 Give a scorpion motif. The Stinging Scorpion or something like that.
 He thinks he’s a self-made super hero. He’s clad in iron with flame jets helping him fly.
