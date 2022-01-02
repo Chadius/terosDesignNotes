@@ -107,11 +107,18 @@ Friendships also define their behavior. For Teros, many of his allies, never kne
 
 With these converstaions, Teros realizes that the world is much bigger than himself. When people do discover that he's not the original, it's less of about who he "should" be. This liberates his actions and he can figure out what he wants to do in the world. He's willing to ask the question. "Who am I? And what do I want out of this" rather than slavishly following the original's actions?
 
+### Core
+
+Teros deals with his identity crisis by acknowledging he's not the former captain of the guard. He's not Surge's father. He's not Teros the Archmage who disappeared one year ago. He's a separate person with a separate personality and that's okay. He doesn't have to reconcile his past, because that isn't his past.
+
+When he confesses this to the rest of the guard, he searches for why he acts the way he does. He is dedicated to protecting the people of Godsfont because deep down inside that store he feels it's the right thing to do. It's his own volition.
+
 # Visual Look
 Main color is Green. Add Black and Red accents.
-![Teros outfit](terosOutfit1.png)
+![Teros outfit](./teros/terosOutfit1.png)
 
 ## Highlights
+
 Needs a pointy high collar that folds into his neck.
 Needs to simplify his costume.
 
@@ -136,7 +143,16 @@ https://pin.it/yLknCu6
 ### Somali
 https://pin.it/4LKWhrA
 
+## How does he wield his spear?
+
+Normally, you find the balancing point of the spear. It's the point where the spear's weight is even on both sides and you can hold it one handed without it teetering over or needing to grip it. For normal spears this about 2/3 of the way towards the head.
+
+His spear is relatively weightless. He holds a small metal tube and Quill conjures as the shaft and head. So maybe he holds it with both hands and draws his hands around it like a double ended lightsaer (but not burning his hands in the process!)
+
+Here's a [>manual I found<](./teros/spearPoseDocumentation.pdf) about spear wieldling poses. Medieval in nature. Will look for Aftican poses/manuals, but it's difficult to look for them without racism kicking in.
+
 # Tarot card challenge
+
 Teros and Corrupted Teros have the same tarot cards, in the same direction.
 
 ## 8. Justice

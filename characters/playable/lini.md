@@ -43,7 +43,7 @@ Find Purpose
 # What does Lini look like?
 Somewhere between loosely-dressed sun worshipper and exciting dancer, Lini’s black hair rises and wavers. Her skin is a dull red, and she wears loose clothing.
 
-![Lini wearing white rags against her brick red skin and grey hair](liniSketch.png)
+![Lini wearing white rags against her brick red skin and grey hair](./lini/liniSketch.png)
 
 Lini’s dress has several loose layers of cloth held by a golden belt. Her top has two straps around her shoulders. She’s barefoot here, and her black hair is held by a headband.
 
@@ -53,6 +53,17 @@ Her head should look like a torch. Her hair is wavy and points away from her for
 ## Music Inspiration
 Street Fighter V – Theme of Rashid
 His theme feels like the sun, piercing the night. Lini dances as she holds her staff high, its healing light washing away her friends’ fear and weakness.
+
+## Facial drawings
+
+<img src="/Users/chadserrant/Documents/terosDesignNotes/characters/playable/lini/2022-01-01 Lini front portrait.jpg" alt="2022-01-01 Lini front portrait" style="zoom:25%;" />
+
+- Square irises
+
+- Torch shaped head
+- Triangular Flap ears 
+- Sun earrings 
+- Hair begins above eye level.
 
 ## Tarot Card challenge
 ### 18. The Moon

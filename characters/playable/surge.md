@@ -3,8 +3,17 @@ Can’t deal with the death of 1 truth and the birth of another
 Will his happy past turn into a deluding present? Can he accept that things have changed?
 # Story
 Son of Teros and Torrin, Surge is a Water Djinn who lives in Godsfont. To keep fend off prejudice, he focused on conversation and motivating others to trust him. His storytelling abilities served him well and he learned much about the world.
-He was kidnapped along with his parents. He watched the corruption infect them and turn them into monsters. In a stroke of luck he was able to escape before he was exposed. The demons and Simulacra gave chase, and he learned the subtle clues he needed to detect their approach.
-Teros rescues him from a demon patrol, but Surge sees through him, distrusting him and warning Vale of the threat he represents. His best chance to survive is to stay with the Godsfont Guard and prepare for Teros’s eventual betrayal.
+
+Surge was captured one night in Godsfont. Overwhelmed immediately, he lost consciousness. By the time he woke, he was within a demonic laboratory. He had to watch his parents be corrupted with terrible energies. As far as he's knows, his parents died that night. His mother, never seen again. His father was replaced with simulacra in his shape, to haunt him.
+
+In a stroke of luck he was able to escape before he was exposed. The demons and Simulacra gave chase, and he learned the subtle clues he needed to detect their approach. The creatures pretend to be his father, turning monstrous when they are discovered, and flees. Unable to stay still for any period of time, Surge feels unable to connect to anyone until he rejoins the Godsfont Guard.
+
+Within the Guard, there's a very small circle of friends that he trusts: Lini and Vale. Everyone else is a dupe or trying to trick him. He has to stay alert.
+
+After Teros rescues him from Barubary, Surge remains suspicious. At this point, he's tired of running. He's found Vale, the first person he can trust in a long time. And he knows Teros and Barubary are fighting each other, so he chooses the lesser of two evils.
+
+By the time Teros realizes he is a separate person from the original, Surge agrees with him. But he also thanks Teros for continuing his father's legacy. He is honored to fight by his side.
+
 # Personality
 ## Surge’s Masks
 ### Physical

@@ -51,9 +51,9 @@ Despite all of her debauchery, Blued knows she is Incomplete, and it gnaws at he
 Especially Teros, who she knows is also Incomplete, yet he has greater autonomy and doesn’t even know he is following orders.
 # Looks
 ## Inspiration
-![Outline of Breath of Fire 4's version of Death](bof4DeathOutline.png)
-![Drawing of Breath of Fire 4's version of Death](bof4DeathDrawing.png)
-![Sketch of Bleud](BleudSketch0.png)
+![Outline of Breath of Fire 4's version of Death](./bleud/bof4DeathOutline.png)
+![Drawing of Breath of Fire 4's version of Death](./bleud/bof4DeathDrawing.png)
+![Sketch of Bleud](./bleud/BleudSketch0.png)
 
 # Masks
 ## Physical

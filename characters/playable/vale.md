@@ -7,15 +7,13 @@ To otherworldly races, Vale is a powerful general who decimated their armies and
 
 Vale considers her actions in the War of Man to be her greatest mistake. Mankind needed her help against other races but she went too far in her bid for power. She was considered the world’s greatest mage and she was entrusted with great arcane feats she performed with ease. But one day she realized she was just a killer. All of that power and all she could do was destroy civilizations.
 
-So Vale fled from her post, abandoning most of her artifacts. She found a village near a desert oasis where Mankind and Djinn refused to fight and instead chose to coexist. As a way to atone, she conjured storm walls to keep invaders out and used her destructive magic to excavate and demolish so it was easy for the town to rebuild and clean itself. She taught the people of her knowledge and they were thankful. She never assumed a role or position of power, even though the people loved her.
-## History (ALT)
-Vale came to Godsfont 423 years ago, seeking solitude and atonement. During the War of Man, she was considered the world’s greatest mage. But one day she realized she was just a killer. All of that power and all she could do was destroy civilizations. She fled and exiled herself to the desert village of Godsfont, only to learn Mankind and Djinn managed to coexist.
-
-She chose to use her destructive magic to help and protect, so she conjured storm walls to keep invaders out and used her destructive magic to excavate and demolish so it was easy for Godsfont to grow. Godsfont was thankful but her display of power was still fearful.
+So Vale fled from her post, abandoning most of her artifacts. She found a village near a desert oasis where Mankind and Djinn refused to fight and instead chose to coexist. As a way to atone, she conjured storm walls to keep invaders out. She wanted to be left alone.
 
 Rumor had it that an arch mage breached the barrier and was searching for her. So Vale confronted Teros, a young arch mage who was also sick of war. He wanted to seek out her friendship and learn a thing or two. She became his mentor and finally found a friend. When Teros became a father, he asked Vale to become his son’s guardian, a role she accepted out of friendship.
 
 Teros and his family disappeared one day, and Vale was regretful she still couldn’t protect her closest allies with her magic. It took her a year to learn enough divination magic to locate Teros. She bolts from her laboratory to rescue him and protect him and the town that loves him so much.
+
+Vale admits that her life as a hermit is boring. It was good to get away from her anxious days as the Archmage. But now but now she really needs to move on. It was Teros who  convinced her to join the Godsfont Guard. She found purpose and she found a chance to repent for the destruction she caused during the War of Man.
 
 # Personality
 ## The Lie to Correct

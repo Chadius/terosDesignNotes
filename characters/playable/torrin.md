@@ -68,7 +68,14 @@ Torrin has to admit this is a new lease on life. She has another chance to corre
 Torrin sees the opportunity to indulge in her desires, but rejects it. As the famed hero she quietly calls upon favors when needed. She knows it is all too easy to use her glory as a crutch.
 
 # What does she look like?
+## 2021-12-26 
+
+<img src="/Users/chadserrant/Documents/terosDesignNotes/characters/playable/torrin/2021-12-26-torrin-sketch.jpg" alt="2021-12-26-torrin-sketch" style="zoom:25%;" />
+
+Armor underneath her religious gown, as she curls her hand into blessed hot foam.
+
 ## Ancient Greece priestess?
+
 Wrap & Drape Fashion p16-17 20
 ## Versus the Water Tyrant
 Torrin and the Water Tyrant have the same body build.

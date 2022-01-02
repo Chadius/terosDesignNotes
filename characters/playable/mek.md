@@ -47,3 +47,13 @@ Mek considers laws to be a suggestion. Physical laws can be broken with enough m
 # Looks
 Give a scorpion motif. The Stinging Scorpion or something like that.
 He thinks he’s a self-made super hero. He’s clad in iron with flame jets helping him fly.
+
+# Writing
+
+## 2021-12-30
+
+Another day, another fight. Foolish bandits, never know when to surrender to a hero like myself. How many more bandits are out there?
+
+Today I fight an Earth Djinn. Quite powerful, honestly. He almost breached my armor with his hammer. Luckily he missed and I retaliated with a surge of plasma, knocking him out. Let the bandits heal him.
+
+The villagers are pleased I returned their stolen goods. Some of them are quite happy, in fact. After the entertainment they showered me with, I too am pleased. I mount my camel and ride away. It's time to return to my forge and fix the dents in my armor.
