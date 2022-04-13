@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T14:20:51.554Z" agent="5.0 (Macintosh)" etag="CUfCXIxMqT2DN7p1fA-t" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T17:07:06.819Z" agent="5.0 (Macintosh)" etag="Q1REiWIvDF4c_-mLWcAo" version="17.4.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1671" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CXgHeGuuu0qvJs52eUjN-1" value="Teros begins his year long sojourn to find a cure for Lini" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="105" width="250" height="120" as="geometry" />
+          <mxGeometry x="670" y="105" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CXgHeGuuu0qvJs52eUjN-2" value="Blackplague spreads throughout Godsfont" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="225" width="120" height="80" as="geometry" />
+          <mxGeometry x="380" y="225" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CXgHeGuuu0qvJs52eUjN-3" value="&lt;div style=&quot;background-color: transparent&quot;&gt;&lt;b style=&quot;background-color: transparent&quot;&gt;Plot Significance&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Top is most significant)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="145" width="60" height="130" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="CXgHeGuuu0qvJs52eUjN-7" value="War of Man spreads" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="505" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CXgHeGuuu0qvJs52eUjN-8" value="Archmage Vale abandons her post and raises Storm Wall around the desert" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CXgHeGuuu0qvJs52eUjN-8" value="Archmage Vale abandons her title and raises Storm Wall around the desert" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="425" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CXgHeGuuu0qvJs52eUjN-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -33,6 +33,18 @@
         </mxCell>
         <mxCell id="CXgHeGuuu0qvJs52eUjN-11" value="&lt;b&gt;Time (left is in the past)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CXgHeGuuu0qvJs52eUjN-12" value="War General Teros abandons the War of Man and flees to join Vale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="425" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CXgHeGuuu0qvJs52eUjN-13" value="Blackplague infects Lini, Heirophant researches cure but it requires rare, hard to find plant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="225" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CXgHeGuuu0qvJs52eUjN-14" value="Ingénue decides to visit Godsfont to investigate Vale and Teros" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CXgHeGuuu0qvJs52eUjN-15" value="Teros returns to Godsfont and resumes his role as Captain of the Godsfont Guard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="105" width="130" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
